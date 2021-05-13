@@ -1,4 +1,4 @@
-<h1>Django E-Commerce Site with MongoDB Database</h1>
+<h1>Django E-Commerce Site with MYSQL Database</h1>
 
 <p>This is an E-Commerce Web Site which has made using Django Framework (Python Web Framework).</p>
 
@@ -11,8 +11,7 @@ Also, if the User is an authenticated User, the Order will be saved to the Datab
 
 <p><b>Required 3rd Party Libraries</b></p>
 <ul>
-<li>Django==3.0.5</li>
-<li>djongo==1.3.4</li>
+<li>Django==3.2.2
+<li>mysqlclient==2.0.3</li>
 <li>Pillow==8.2.0</li>
-<li>pymongo==3.11.4</li>
 </ul>
